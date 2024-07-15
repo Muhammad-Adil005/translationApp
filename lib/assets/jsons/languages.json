@@ -1,0 +1,40 @@
+[
+  {
+    "language": "English",
+    "code": "en",
+    "flag": "🇬🇧"
+  },
+
+  {
+    "language": "Afghanistan",
+    "code": "af",
+    "flag": "🇦🇫"
+  },
+
+  {
+    "language": "Albania",
+    "code": "AL",
+    "flag": "sq"
+  },
+
+  {
+    "language": "Spanish",
+    "code": "es",
+    "flag": "🇪🇸"
+  },
+  {
+    "language": "French",
+    "code": "fr",
+    "flag": "🇫🇷"
+  },
+  {
+    "language": "Mandarin Chinese",
+    "code": "zh",
+    "flag": "🇨🇳"
+  },
+  {
+    "language": "Portuguese",
+    "code": "pt",
+    "flag": "🇵🇹"
+  }
+]
